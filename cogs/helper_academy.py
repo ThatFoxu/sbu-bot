@@ -125,7 +125,7 @@ done1 = "You are done with the course. Ping <@&801634222577156097> to start the 
 # True stands for scammer - False stands for not scammer
 lookup = {
     "shachi": True, "Rvon": True, "Fijit": False, "someonestolemypc": True, "jpgaming55": True, "LordZarach": False,
-    'Skeldow': True, 'FDRR': True, 'LavenderHeights': True, 'MartinNemi03': False, '69mn': True, 'zStrelizia': True,
+    'Skeldow': True, 'StopWipingMe': True, 'LavenderHeights': True, 'MartinNemi03': False, '69mn': True, 'zStrelizia': True,
     'Adviceful': True, 'Zykm': True, 'muffinio': True, 'spedwick': True, 'FantasmicGalaxy': False, 'urra': True,
     'Iwolf05': True, 'noscope_': True, 'luvanion': True, 'KSavvv18': True, '43110s': True, 'dukioooo': False,
     'CoruptKun': True, 'Teunman': True, '302q': True, 'Tera_Matt': True, 'jexh': False, 'Royalist': True,
