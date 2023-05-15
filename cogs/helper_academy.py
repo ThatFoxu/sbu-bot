@@ -129,7 +129,7 @@ lookup = {
     'Adviceful': True, 'Zykm': True, 'muffinio': True, 'spedwick': True, 'FantasmicGalaxy': False, 'urra': True,
     'Iwolf05': True, 'noscope_': True, 'luvanion': True, 'KSavvv18': True, '43110s': True, 'dukioooo': False,
     'CoruptKun': True, 'Teunman': True, '302q': True, 'Tera_Matt': True, 'jexh': False, 'Royalist': True,
-    'McMuffinLover': True, 'o600': False, 'jjww2': False, 'n0twanted': True, 'LeaPhant': False, 'Zanjoe': True,
+    'McMuffinLover': True, 'o600': False, 'jjww2': False, 'kanimetv': True, 'LeaPhant': False, 'Zanjoe': True,
     'Yarnzy_': True, 'ih8grinding': True, 'Verychillvibes': True, 'LesbianCatgirl': False, 'Legendofhub': True,
     'Spectrov': True, '_YungGravy': False, 'wigner': True, 'U4BJ': True
 
